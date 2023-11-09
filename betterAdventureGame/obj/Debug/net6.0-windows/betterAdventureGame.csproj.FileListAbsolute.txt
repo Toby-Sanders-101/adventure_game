@@ -1,0 +1,17 @@
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.exe
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.deps.json
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.runtimeconfig.json
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.dll
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.pdb
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.Form1.resources
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.csproj.GenerateResource.cache
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.AssemblyInfoInputs.cache
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.AssemblyInfo.cs
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.csproj.CoreCompileInputs.cache
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.dll
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\refint\betterAdventureGame.dll
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.pdb
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.genruntimeconfig.cache
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\ref\betterAdventureGame.dll
+N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\obj\Debug\net6.0-windows\betterAdventureGame.csproj.AssemblyReference.cache

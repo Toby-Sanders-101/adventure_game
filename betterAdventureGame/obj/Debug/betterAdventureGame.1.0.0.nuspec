@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>betterAdventureGame</id>
+    <version>1.0.0</version>
+    <authors>betterAdventureGame</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.runtimeconfig.json" target="lib\net6.0-windows7.0\betterAdventureGame.runtimeconfig.json" />
+    <file src="N:\Documents\Visual Studio 2022\Projects\betterAdventureGame\betterAdventureGame\bin\Debug\net6.0-windows\betterAdventureGame.dll" target="lib\net6.0-windows7.0\betterAdventureGame.dll" />
+  </files>
+</package>
